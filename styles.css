@@ -1,0 +1,33 @@
+.container {
+    width: 500px;
+    font-size: 60px;
+    text-wrap: wrap;
+}
+
+.red-box {
+    background-color: red;
+    height: 100px;
+    text-align: center;
+    color: white
+}
+
+.blue-box {
+    position: relative;
+    background-color: navy;
+    height: 200px;
+}
+
+.white-circle {
+    position: absolute;
+    left: 175px;
+    top: 25px;
+    text-align: center;
+    background-color: white;
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+}
+
+#circle-text {
+    margin: 0px;
+}
